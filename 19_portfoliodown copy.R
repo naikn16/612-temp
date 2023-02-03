@@ -14,16 +14,16 @@
 
 
 # CREATE NEW PROJECT ------------------------------------------------------
-usethis::create_project(path= path(path_home(), "Dropbox/projects/teaching/temp-612/"))
+#usethis::create_project(path= path(path_home(), "Dropbox/projects/teaching/temp-612/"))
 ## Will need to open this file in new RStudio instance -> File/Recent Files
 
 
 # use github
-usethis::use_git_ignore()
+#usethis::use_git_ignore()
 
-usethis::use_git()
+#usethis::use_git()
 
-usethis::use_github(private = TRUE)
+#usethis::use_github(private = TRUE)
 
 
 
